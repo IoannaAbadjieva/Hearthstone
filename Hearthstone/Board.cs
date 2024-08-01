@@ -4,7 +4,7 @@
 	using System.Collections.Generic;
 	public class Board : IBoard
 	{
-		//Method checks if the board contains a card
+ 		//Check if board contains a given card
 		public bool Contains(string name)
 		{
 			throw new NotImplementedException();
